@@ -1,3 +1,3 @@
-## Simple Tree View component
+## Simple Tree View React component
 
 ![alt](./screenShot.png)
